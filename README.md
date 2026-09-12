@@ -240,4 +240,4 @@ This repository serves as the official landing page for Ulead GIF Animator. The 
 **Get the most recent version of Ulead GIF Animator today!**
 
 ---
-**Last updated:** 2026-09-12 04:18:45 UTC
+**Last updated:** 2026-09-12 09:04:18 UTC
